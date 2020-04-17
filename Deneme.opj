@@ -28,6 +28,10 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (100K_ECL_LDM
+      (FullPartName "100K_ECL_LDM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
+      (DeviceIndex "0"))
     (PORTLEFT-L
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -46,10 +50,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "c:\users\user\desktop\deneme.dsn")
-      (Path "Design Resources" "c:\users\user\desktop\deneme.dsn" "SCHEMATIC1")
-      (Path "Design Resources" "c:\users\user\desktop\deneme.dsn" "CPU")
-      (Select "Design Resources" "c:\users\user\desktop\deneme.dsn"))
+      (Path "Design Resources" ".\deneme.dsn")
+      (Path "Design Resources" ".\deneme.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\deneme.dsn" "CPU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -59,20 +62,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 425")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1330 0 321")
+        (Scroll "0 180")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\USER\DESKTOP\DENEME.DSN")
+      (Path
+         "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1140 104 425")
         (Scroll "0 0")
         (Zoom "100")
-        (Occurrence "/U1"))
-      (Path "C:\USERS\USER\DESKTOP\DENEME.DSN")
+        (Occurrence "/CPU-3"))
+      (Path
+         "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.DSN")
       (Schematic "CPU")
       (Page "PAGE1"))))
