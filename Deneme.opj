@@ -28,6 +28,10 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (C
       (FullPartName "C.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -65,7 +69,10 @@
          "SCHEMATIC1")
       (Path "Design Resources"
          "c:\users\user\daiichi elektronik san. ve tic. a.s\daiichi_arge_hardware - documents\orcad_deneme\deneme.dsn"
-         "CPU"))
+         "CPU")
+      (Select "Design Resources"
+         "c:\users\user\daiichi elektronik san. ve tic. a.s\daiichi_arge_hardware - documents\orcad_deneme\deneme.dsn"
+         "CPU" "PAGE3"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
