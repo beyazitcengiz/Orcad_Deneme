@@ -52,23 +52,33 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\deneme.dsn")
       (Path "Design Resources" ".\deneme.dsn" "SCHEMATIC1")
+<<<<<<< Updated upstream
       (Path "Design Resources" ".\deneme.dsn" "CPU"))
+=======
+      (Select "Design Resources" ".\deneme.dsn" "SCHEMATIC1" "PAGE1"))
+>>>>>>> Stashed changes
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 282"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 282"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
+<<<<<<< Updated upstream
         (Placement "44 0 1 -1 -1 -8 -31 0 1330 0 321")
         (Scroll "0 180")
+=======
+        (Placement "44 2 3 -1 -1 -8 -31 78 1408 78 399")
+        (Scroll "0 80")
+>>>>>>> Stashed changes
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.DSN")
       (Schematic "SCHEMATIC1")
+<<<<<<< Updated upstream
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
@@ -80,4 +90,6 @@
       (Path
          "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.DSN")
       (Schematic "CPU")
+=======
+>>>>>>> Stashed changes
       (Page "PAGE1"))))
