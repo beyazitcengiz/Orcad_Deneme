@@ -1,134 +1,58 @@
-\t (00:00:01) allegro 17.2 S047 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sat Apr 18 15:58:04 2020
-\t (00:00:01)         Host=ANIL User=anil- Pid=1972 CPUs=4
-\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\anil-\Desktop\versiyon deneme\Orcad_Deneme\Allegro\SMART_26092019_B_REV01.brd
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SMART_26092019_B_REV01
-\d (00:00:04) Design opened: C:/Users/anil-/Desktop/versiyon deneme/Orcad_Deneme/Allegro/SMART_26092019_B_REV01.brd
-\i (00:00:05) trapsize 2287
-\i (00:00:05) trapsize 2402
-\i (00:00:05) trapsize 2287
-\i (00:00:05) trapsize 2287
-\i (00:00:05) trapsize 1541
-\i (00:00:05) trapsize 15621
-\i (00:00:06) trapsize 2071
-\i (00:00:06) trapsize 13929
-\i (00:00:06) trapsize 2148
-\i (00:00:06) trapsize 1583
-\i (00:00:06) generaledit 
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out 20.4717 -0.6570
-\i (00:00:07) trapsize 3166
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out 20.4717 -0.6571
-\i (00:00:07) trapsize 6331
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 20.4717 -0.6571
-\i (00:00:08) trapsize 12663
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 20.4717 -0.6571
-\i (00:00:08) trapsize 25326
+\t (00:00:02) allegro 17.2 S047 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Apr 18 16:04:39 2020
+\t (00:00:02)         Host=ANIL User=anil- Pid=9296 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\anil-\Desktop\versiyon deneme\Orcad_Deneme\Allegro\SMART_26092019_B_REV01.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SMART_26092019_B_REV01
+\d (00:00:05) Design opened: C:/Users/anil-/Desktop/versiyon deneme/Orcad_Deneme/Allegro/SMART_26092019_B_REV01.brd
+\i (00:00:05) trapsize 18293
+\i (00:00:05) trapsize 19212
+\i (00:00:05) trapsize 18293
+\i (00:00:06) trapsize 18293
+\i (00:00:06) trapsize 12324
+\i (00:00:06) trapsize 124971
+\i (00:00:06) trapsize 16570
+\i (00:00:06) trapsize 111432
+\i (00:00:06) trapsize 17188
+\i (00:00:06) trapsize 12663
+\i (00:00:07) generaledit 
+\i (00:00:08) roam start
+\i (00:00:08) roam x 32
+\i (00:00:08) roam y -32
+\i (00:00:08) roam x 48
+\i (00:00:08) roam y -64
+\i (00:00:08) roam end
 \i (00:00:09) zoom in 1 
 \i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 142.5407 84.9433
-\i (00:00:09) trapsize 12663
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 143.5537 85.1966
+\i (00:00:09) zoom in 113.6023 12.7347
 \i (00:00:09) trapsize 6331
-\i (00:00:11) zoom in 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom in 144.4401 61.5172
-\i (00:00:11) trapsize 3166
-\i (00:00:12) zoom out 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom out 144.4402 61.5173
-\i (00:00:12) trapsize 6331
-\i (00:00:12) zoom out 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom out 144.4401 61.5172
-\i (00:00:12) trapsize 12663
-\i (00:00:14) roam start
-\i (00:00:14) roam y 32
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:15) roam x -16
-\i (00:00:15) roam x -16
-\i (00:00:15) roam y 16
-\i (00:00:15) roam end
-\i (00:00:18) zoom in 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom in 149.3110 67.9442
-\i (00:00:18) trapsize 6331
-\i (00:00:18) zoom in 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom in 149.3110 67.9442
-\i (00:00:18) trapsize 3166
-\i (00:00:18) zoom in 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom in 149.3110 67.9442
-\i (00:00:18) trapsize 1583
-\i (00:00:19) zoom out 1 
-\i (00:00:19) setwindow pcb
-\i (00:00:19) zoom out 146.5885 68.1025
-\i (00:00:19) trapsize 3166
-\i (00:00:21) delete 
-\i (00:00:21) drag_start grid 132.7861 72.5978
-\i (00:00:22) drag_stop 155.5791 61.2646
-\i (00:00:24) prepopup 150.1974 65.3167
-\i (00:00:26) cancel 
-\i (00:00:26) generaledit 
-\i (00:00:26) zoom out 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom out 151.9069 66.0765
-\i (00:00:26) trapsize 6331
-\i (00:00:26) zoom out 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom out 151.9069 66.0764
-\i (00:00:26) trapsize 12663
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in 69.0924 22.5165
-\i (00:00:28) trapsize 6331
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in 69.0924 22.5166
-\i (00:00:28) trapsize 3166
-\i (00:00:30) delete 
-\i (00:00:30) drag_start grid 61.8747 38.9782
-\i (00:00:31) drag_stop 86.7570 22.3900
-\i (00:00:32) prepopup 83.1481 28.1515
-\i (00:00:33) done 
-\i (00:00:33) generaledit 
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out 85.1109 31.1906
-\i (00:00:34) trapsize 6331
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out 85.1108 31.1906
-\i (00:00:34) trapsize 12663
-\i (00:00:36) roam start
-\i (00:00:36) roam x 48
-\i (00:00:36) roam x 32
-\i (00:00:36) roam y -16
-\i (00:00:36) roam x 16
-\i (00:00:36) roam x 64
-\i (00:00:36) roam x 16
-\i (00:00:36) roam y -16
-\i (00:00:36) roam y -16
-\i (00:00:37) roam end
-\i (00:00:37) pick grid 202.4946 15.7736
-\t (00:00:37) last pick:  202.5000 15.8000
-\i (00:00:40) save 
-\i (00:00:41) fillin yes 
-\i (00:00:41) generaledit 
-\i (00:00:45) exit 
-\t (00:00:45)     Journal end - Sat Apr 18 15:58:47 2020
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 113.6023 12.7347
+\i (00:00:09) trapsize 3166
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 113.2857 12.7347
+\i (00:00:10) trapsize 6331
+\i (00:00:11) delete 
+\i (00:00:12) drag_start grid 93.7851 36.0342
+\i (00:00:15) drag_stop 152.9202 6.1500
+\i (00:00:37) prepopup 152.7936 6.1500
+\i (00:01:01) done 
+\i (00:01:02) generaledit 
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 132.9130 25.2708
+\i (00:01:04) trapsize 12663
+\i (00:01:05) roam start
+\i (00:01:05) roam x 16
+\i (00:01:05) roam y -48
+\i (00:01:05) roam y -32
+\i (00:01:06) roam end
+\i (00:01:08) save 
+\i (00:01:10) fillin yes 
+\i (00:01:10) generaledit 
+\i (00:01:12) exit 
+\t (00:01:12)     Journal end - Sat Apr 18 16:05:49 2020
