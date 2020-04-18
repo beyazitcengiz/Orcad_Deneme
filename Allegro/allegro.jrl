@@ -1,61 +1,91 @@
 \t (00:00:02) allegro 17.2 S047 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Sat Apr 18 15:49:37 2020
-\t (00:00:02)         Host=ANIL User=anil- Pid=12552 CPUs=4
+\t (00:00:02)     Journal start - Sat Apr 18 15:52:50 2020
+\t (00:00:02)         Host=ANIL User=anil- Pid=4268 CPUs=4
 \t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\anil-\Desktop\versiyon deneme\Orcad_Deneme\Allegro\SMART_26092019_B_REV01.brd
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SMART_26092019_B_REV01
-\d (00:00:04) Design opened: C:/Users/anil-/Desktop/versiyon deneme/Orcad_Deneme/Allegro/SMART_26092019_B_REV01.brd
-\i (00:00:04) trapsize 18293
-\i (00:00:05) trapsize 19212
-\i (00:00:05) trapsize 18293
-\i (00:00:05) trapsize 18293
-\i (00:00:05) trapsize 12324
-\i (00:00:05) trapsize 124971
-\i (00:00:05) trapsize 16570
-\i (00:00:05) trapsize 111432
-\i (00:00:05) trapsize 17188
-\i (00:00:05) trapsize 12663
-\i (00:00:06) generaledit 
-\i (00:00:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: LOOK-TOP"
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 12.4942 0.2512
-\i (00:00:13) trapsize 6331
-\i (00:00:14) zoom in 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom in 15.7865 0.2513
-\i (00:00:14) trapsize 3166
-\i (00:00:14) zoom in 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom in 15.8498 0.2513
-\i (00:00:14) trapsize 1583
-\i (00:00:14) zoom in 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom in 15.8498 0.2513
-\i (00:00:14) trapsize 791
-\i (00:00:15) zoom out 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom out 16.0081 0.2355
-\i (00:00:15) trapsize 1583
-\i (00:00:16) pick grid 18.1924 0.1406
-\t (00:00:16) last pick:  18.2000 0.1000
-\i (00:00:17) prepopup 18.1924 0.1406
-\i (00:00:19) pop dyn_option_select '@:@Text edit' 
-\i (00:00:19) text edit 
-\i (00:00:33) setwindow form.textedit
-\i (00:00:33) FORM textedit str 2020-04-18-VER:01 
-\i (00:00:33) FORM textedit done  
-\i (00:00:33) setwindow pcb
-\i (00:00:33) pick 0.0000 0.0000
-\t (00:00:33) Pick text to edit.
-\i (00:00:33) setwindow pcb
-\i (00:00:33) generaledit 
-\i (00:00:34) pick grid 31.6782 -0.5875
-\t (00:00:34) last pick:  31.7000 -0.6000
-\i (00:00:37) save 
-\i (00:00:39) fillin yes 
-\i (00:00:40) generaledit 
-\i (00:00:42) exit 
-\t (00:00:42)     Journal end - Sat Apr 18 15:50:17 2020
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SMART_26092019_B_REV01
+\d (00:00:05) Design opened: C:/Users/anil-/Desktop/versiyon deneme/Orcad_Deneme/Allegro/SMART_26092019_B_REV01.brd
+\i (00:00:05) trapsize 2287
+\i (00:00:05) trapsize 2402
+\i (00:00:06) trapsize 2287
+\i (00:00:06) trapsize 2287
+\i (00:00:06) trapsize 1541
+\i (00:00:06) trapsize 15621
+\i (00:00:06) trapsize 2071
+\i (00:00:06) trapsize 13929
+\i (00:00:06) trapsize 2148
+\i (00:00:06) trapsize 1583
+\i (00:00:07) generaledit 
+\i (00:00:23) pick grid 17.3060 -5.7538
+\t (00:00:23) last pick:  17.3000 -5.8000
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 17.8125 -5.0574
+\i (00:00:23) trapsize 3166
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 17.8125 -5.0573
+\i (00:00:23) trapsize 6331
+\i (00:00:24) roam start
+\i (00:00:24) roam x 32
+\i (00:00:24) roam y -32
+\i (00:00:24) roam x 48
+\i (00:00:24) roam y -48
+\i (00:00:25) roam x 32
+\i (00:00:25) roam y -32
+\i (00:00:25) roam x 32
+\i (00:00:25) roam y -16
+\i (00:00:25) roam x 16
+\i (00:00:25) roam y -16
+\i (00:00:25) roam x 16
+\i (00:00:25) roam y 16
+\i (00:00:25) roam y 16
+\i (00:00:26) roam y 32
+\i (00:00:26) roam y 16
+\i (00:00:26) roam end
+\i (00:00:28) roam start
+\i (00:00:28) roam x 64
+\i (00:00:28) roam y -32
+\i (00:00:29) roam x 128
+\i (00:00:29) roam y -64
+\i (00:00:29) roam x 96
+\i (00:00:29) roam y -64
+\i (00:00:29) roam x 32
+\i (00:00:29) roam y -32
+\i (00:00:29) roam x 32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x 32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x 32
+\i (00:00:29) roam y -32
+\i (00:00:29) roam x 48
+\i (00:00:29) roam y -32
+\i (00:00:29) roam x 48
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x 32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:30) roam x 16
+\i (00:00:30) roam y -16
+\i (00:00:30) roam x 16
+\i (00:00:30) roam end
+\i (00:00:35) delete 
+\i (00:00:37) drag_start grid 131.2030 76.8081
+\i (00:00:37) drag_stop 171.4706 56.4210
+\i (00:00:39) prepopup 185.2730 62.8790
+\i (00:00:40) done 
+\i (00:00:41) generaledit 
+\i (00:00:45) zoom fit 
+\i (00:00:45) trapsize 12145
+\i (00:00:46) prepopup 188.2533 63.5731
+\i (00:00:46) pick grid 189.4678 67.4596
+\t (00:00:46) last pick:  189.5000 67.5000
+\i (00:00:51) unrats all 
+\i (00:00:51) generaledit 
+\i (00:00:54) save 
+\i (00:00:55) fillin yes 
+\i (00:00:55) generaledit 
+\i (00:00:57) exit 
+\t (00:00:58)     Journal end - Sat Apr 18 15:53:45 2020
