@@ -24,10 +24,28 @@
     (Annotate_type "Default")
     (width_pages "100")
     (width_start "80")
-    (width_End "80"))
-  (Folder "Outputs")
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File
+       "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "TRUE"))
+  (Folder "Outputs"
+    (File ".\deneme.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -52,9 +70,6 @@
       (FullPartName "100K_ECL_LDM.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
       (DeviceIndex "0"))
-    (PORTLEFT-L
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (PORTBOTH-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -62,13 +77,15 @@
       (FullPartName "100311/LCC.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "anil-")
+  (MPSSessionName "USER")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\deneme.dsn")
       (Path "Design Resources" ".\deneme.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\deneme.dsn" "CPU"))
+      (Path "Design Resources" ".\deneme.dsn" "SCHEMATIC2")
+      (Path "Outputs")
+      (Select "Design Resources" ".\deneme.dsn" "SCHEMATIC2" "+3V3 REG"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -78,13 +95,30 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1243 52 324")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399")
+        (Scroll "0 120")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\ANIL-\DESKTOP\VERSIYON DENEME\ORCAD_DENEME\DENEME.DSN")
+      (Path
+         "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))) >>>>>>> Stashed changes
+      (Page "Block Diagram"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1434 78 314")
+        (Scroll "382 16")
+        (Zoom "200")
+        (Occurrence "/REG1"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1460 104 340")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/REG2"))
+      (Path
+         "C:\USERS\USER\DAIICHI ELEKTRONIK SAN. VE TIC. A.S\DAIICHI_ARGE_HARDWARE - DOCUMENTS\ORCAD_DENEME\DENEME.DSN")
+      (Schematic "SCHEMATIC2")
+      (Page "+3V3 REG"))) >>>>>>> Stashed changes
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
