@@ -6,6 +6,5 @@
 ### Cadence Design Systm's OrCAD ###
 *.dat
 *.jrl
-**jrl,1
-
+*jrl,1
 # End of https://www.gitignore.io/api/orcad
